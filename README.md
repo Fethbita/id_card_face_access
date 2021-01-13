@@ -14,14 +14,14 @@ The proposed solution can be used on the entrances to buildings or self-checkout
 
 <img src="https://www.politsei.ee/thumbs/1800x1800r/Dokumentide%20naeidised/elamisloakaart2018/elamisloakaart-2018-esikuelg.jpg" height="200" alt="front side of Estonian residence permit"> <img src="https://www.politsei.ee/thumbs/1800x1800r/Dokumentide%20naeidised/elamisloakaart2018/elamisloakaart-2018-tagakuelg.jpg?c3509c0c85" height="200" alt="back side of Estonian residence permit">
 
-<sup>1</sup>https://www.icao.int/publications/pages/publication.aspx?docnum=9303  
-<sup>2</sup>https://www.ria.ee/sites/default/files/content-editors/ria_aastaraamat_2020_48lk_eng.pdf
+<sup>1</sup>[https://www.icao.int/publications/pages/publication.aspx?docnum=9303](https://www.icao.int/publications/pages/publication.aspx?docnum=9303)  
+<sup>2</sup>[https://www.ria.ee/sites/default/files/content-editors/ria_aastaraamat_2020_48lk_eng.pdf](https://www.ria.ee/sites/default/files/content-editors/ria_aastaraamat_2020_48lk_eng.pdf)
 
 
 ## In action
 
-![a demo of the program](demo/demo.gif)
-<sub>The image shown on the phone is taken from https://thispersondoesnotexist.com/</sub>
+![a demo of the program](docs/images/demo.gif)
+<sub>The image shown on the phone is taken from [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)</sub>
 
 
 ## Requirements
