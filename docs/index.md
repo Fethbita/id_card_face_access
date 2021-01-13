@@ -20,7 +20,7 @@ The proposed solution can be used on the entrances to buildings or self-checkout
 
 ## In action
 
-![a demo of the program](images/demo.gif)
+[![a demo of the program](images/demo.gif)](https://burakcankus.com/id_card_face_access/images/demo.gif)
 <sub>The image shown on the phone is taken from [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)</sub>
 
 
