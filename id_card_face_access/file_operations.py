@@ -135,7 +135,7 @@ def assert_dg_hash(dg_file, data_group_hash_values, hash_alg, dg_number, window)
         from id_card_face_access.__main__ import EVERYTHING_IS_OKAY
         EVERYTHING_IS_OKAY = False
         print("[-] Potentially cloned document, hashes do not match!")
-        #reply = input("[?] Do you still want to proceed? [Y/n] ")
+        #reply = input("[?] Do you still want to proceed? [y/N] ")
         #if reply.lower() != "y":
         #    raise ValueError("[-] Potentially cloned document, hashes do not match!")
         ## GUI ##

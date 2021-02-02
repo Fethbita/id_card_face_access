@@ -95,7 +95,7 @@ def active_auth(dg15, channel, ks_enc, ks_mac, SSC, window, dump=False):
             from id_card_face_access.__main__ import EVERYTHING_IS_OKAY
             EVERYTHING_IS_OKAY = False
             print("[-] Active Authentication (AA) failed!")
-            #reply = input("[?] Do you still want to proceed? [Y/n] ")
+            #reply = input("[?] Do you still want to proceed? [y/N] ")
             #if reply.lower() != "y":
             #    raise ValueError("[-] Active Authentication (AA) failed!")
             ## GUI ##

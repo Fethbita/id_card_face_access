@@ -125,7 +125,7 @@ def passive_auth(EFSOD, CSCA_certs_dir, crls_dir, window, dump=False):
                 "[-] Document Signer Certificate is not signed by a CSCA certificate or is invalid!\n"
                 + str(ex.args)
             )
-            #reply = input("[?] Do you still want to proceed? [Y/n] ")
+            #reply = input("[?] Do you still want to proceed? [y/N] ")
             #if reply.lower() != "y":
             #    raise ValueError(
             #        "[-] Document Signer Certificate is not signed by a CSCA certificate or is invalid!"

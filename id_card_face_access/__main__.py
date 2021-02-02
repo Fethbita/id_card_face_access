@@ -156,7 +156,7 @@ def main(args, first_run):
             print(
                 "[-] EF.COM might have been changed, there are differences between EF_COM DGs and EF_SOD DGs!\n"
             )
-            #reply = input("[?] Do you still want to proceed? [Y/n] ")
+            #reply = input("[?] Do you still want to proceed? [y/N] ")
             #if reply.lower() != "y":
             #    raise ValueError("[-] Potentially tampered document, DGs do not match!")
             ## GUI ##
