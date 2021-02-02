@@ -36,12 +36,12 @@ The proposed solution can be used on the entrances to buildings or self-checkout
 First, [enable the universe repository](https://help.ubuntu.com/community/Repositories/Ubuntu).
 Then download the necessary packages:
 ```shell
-sudo apt-get install git wget build-essential cmake python3-dev python3-venv swig libpcsclite-dev pcscd
+sudo apt-get install git wget build-essential cmake python3-dev python3-venv python3-tk swig libpcsclite-dev pcscd
 ```
 ### On Arch Linux/Manjaro:
 Download the necessary packages and enable the smart card service:
 ```shell
-sudo pacman -S git wget python base-devel cmake swig ccid opensc
+sudo pacman -S git wget python tk base-devel cmake swig ccid opensc
 sudo systemctl enable --now pcscd.service
 ```
 
